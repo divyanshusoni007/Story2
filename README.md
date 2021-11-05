@@ -1,2 +1,2 @@
 # Story2
-A new dtory.
+A new story.
